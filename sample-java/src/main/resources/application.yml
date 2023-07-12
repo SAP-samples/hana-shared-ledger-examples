@@ -1,0 +1,18 @@
+ledger-service-key:
+  ledgerAPI: https://eccwf-ledger-service-prod.cfapps.eu12.hana.ondemand.com/v1
+  clientid: sb-e6c5559c-d70a-4920-9af7-6266bb91922c!b77271|embedded-cross-company-workflow!b76736
+  clientsecret: ab2a3a10-776c-45f8-8217-3198bad08429$hBEfItRUYadbRMPO3em0AwO4LX9031VxTJQAmBIRLSM=
+  url: https://provider-sample-app-eu12-m5xulhe3.authentication.eu12.hana.ondemand.com
+hana-service-key:
+  clientid: sb-e6c5559c-d70a-4920-9af7-6266bb91922c!b77271|embedded-cross-company-workflow!b76736
+  clientsecret: ab2a3a10-776c-45f8-8217-3198bad08429$hBEfItRUYadbRMPO3em0AwO4LX9031VxTJQAmBIRLSM=
+  url: https://provider-sample-app-eu12-m5xulhe3.authentication.eu12.hana.ondemand.com
+  host: eca59712-cf60-4303-ab19-c29e1a7db9fa.hana.prod-eu12.hanacloud.ondemand.com
+  port: 443
+  user: USR_3C6MGT39RXY1XKT7QDBVIPFC9
+  password: Ei54qbDn_c2dtVK1wYgaq8M2K.0xUNssw0bmoA7dfj0.OMIRjWTyHZQgD2UuI2tptgjZeBLx7SKkVR1bntkOPEG8hpMn1msngxNTlcJrN3vnpuYt5CRyH9sAxGMm1dV_
+  schema: USR_3C6MGT39RXY1XKT7QDBVIPFC9
+  driver: com.sap.db.jdbc.Driver
+
+
+
