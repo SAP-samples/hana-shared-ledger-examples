@@ -1,5 +1,7 @@
 # Shared Ledger on SAP HANA Client Examples
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/shared-ledger-on-sap-hana-client-examples)](https://api.reuse.software/info/github.com/SAP-samples/shared-ledger-on-sap-hana-client-examples)
+
 In this repository you can find sample applications that demonstrate how to use the Shared Ledger on SAP HANA with different programming languages.
 
 **Disclaimer:** These sample applications are not intended to be used in production.
